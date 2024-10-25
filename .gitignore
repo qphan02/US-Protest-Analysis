@@ -1,0 +1,7 @@
+*.xlsx
+*.zip
+.venv
+*.csv
+*.pdf
+
+.DS_Store
