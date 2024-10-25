@@ -1,4 +1,4 @@
-# US Protest Analysis
+# US Protests Analysis
 
 Name: **Quan Phan**
 
